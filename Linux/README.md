@@ -1,7 +1,3 @@
-Absolutely! Here's a list of **real-time style assignments** based on **Section 1: Linux Fundamentals** — these are practical, task-oriented, and align *perfectly* with the topics you've covered:
-
----
-
 ## ✅ **Section 1: Linux Fundamentals – Assignments**
 
 ---
