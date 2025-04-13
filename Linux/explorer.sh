@@ -1,0 +1,10 @@
+echo "User: $(whoami)"
+echo "---------------------------------"
+echo "Hostname: $(hostname)"
+echo "---------------------------------"
+echo "Current Working Directory: $(pwd)"
+echo "---------------------------------"
+echo "Linux Distri and version: $(uname -a)"
+echo "---------------------------------"
+echo "All available shells: $(cat /etc/shells)"
+
