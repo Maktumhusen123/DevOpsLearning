@@ -107,5 +107,3 @@
 - Gives hints like: “It’s based on Debian”, “Popular for servers”, etc.
 
 ---
-
-Would you like me to bundle these assignments into a GitHub-friendly README format or folder structure suggestion as well? That way you can push your repo cleanly.
